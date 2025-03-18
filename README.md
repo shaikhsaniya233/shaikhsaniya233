@@ -1,5 +1,5 @@
-👋Hello, I,m Saniya 
-🌱I am currently learning Web Devlopment
+.👋Hello, I,m Saniya 
+.🌱I am currently learning Web Devlopment
 
 <!--
 **shaikhsaniya233/shaikhsaniya233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
